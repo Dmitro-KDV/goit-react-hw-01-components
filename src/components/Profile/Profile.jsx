@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import {Event} from 'components/Profile/Event'
 import user from '../../user.json'
 
@@ -17,7 +16,3 @@ export const Profile = () => {
         </div>
     );
 }
-
-// Profile.propTypes = {
-//     key: PropTypes.string.isRequired,
-// }
