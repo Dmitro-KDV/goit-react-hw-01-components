@@ -1,5 +1,4 @@
 import styled from '@emotion/styled'
-// import styled from 'styled-components';
 
 export const FriendListContainer = styled.ul`
     list-style: none;
