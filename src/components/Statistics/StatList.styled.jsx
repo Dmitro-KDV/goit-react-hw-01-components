@@ -7,7 +7,7 @@ function getRandomHexColor() {
   }
 
 export const Container = styled.li`
-    background-color: ${getRandomHexColor()};
+    background-color: ${getRandomHexColor};
     display: flex;
     flex-direction: column;
     align-items:center;
